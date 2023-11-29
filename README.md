@@ -1,5 +1,5 @@
 # JavaScript Datarithms
-Popular Data Structures and Algorithms written in JavaScript
+Popular Data Structures and Algorithms written in JavaScript to further my programming skills. As I begin to apply to full times jobs I want to be sure my I have my fundementals down. 
 
 ## Table of Contents
 
