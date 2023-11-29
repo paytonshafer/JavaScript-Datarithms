@@ -24,5 +24,5 @@ node example.js
 
 ## License
 This project is licensed under the [MIT License](/LICENSE).
-Feel free to customize it further based on your specific requiremts.
+Feel free to customize it further based on your requiremts.
 
