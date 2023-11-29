@@ -2,12 +2,12 @@
 This folder contains a collection of commonly used data structures implemented in JavaScript. Each data structure is designed to provide efficient solutions for various algorithmic problems and can be used as building blocks for more complex applications.
 
 ## Table of Contents
-1. [Dynamic Array](#1-dynamic-array)
-2. [Linked List](#2-linked-list)
-3. [Circular Dequeue](#3-circular-dequeue)
-4. [Binary Search Tree](#4-binary-search-tree)
-5. [Hash Table](#5-hash-table)
-6. [Graph](#6-graph)
+1. [Dynamic Array](#dynamic-array)
+2. [Linked List](#linked-list)
+3. [Circular Dequeue](#circular-dequeue)
+4. [Binary Search Tree](#binary-search-tree)
+5. [Hash Table](#hash-table)
+6. [Graph](#graph)
 
 ## Dynamic Array
 
