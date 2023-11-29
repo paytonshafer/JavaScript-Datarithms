@@ -9,9 +9,7 @@ This folder contains a collection of commonly used data structures implemented i
 3. [Circular Dequeue](#3-circular-dequeue)
 4. [Binary Search Tree](#4-binary-search-tree)
 5. [Hash Table](#5-hash-table)
-6. [Heap](#6-heap)
-7. [Graph](#7-graph)
-8. [Segment Tree](#8-segment-tree)
+6. [Graph](#6-graph)
 
 ## 1. Dynamic Array
 
@@ -33,14 +31,6 @@ A binary search tree with basic operations like insertion, deletion, and search.
 
 A hash table implementation for efficient key-value pair storage and retrieval.
 
-## 6. Heap
+## 6. Graph
 
-A binary heap implementation, supporting both min-heap and max-heap operations.
-
-## 7. Graph
-
-A graph representation with basic graph traversal algorithms (BFS, DFS) and other fundamental graph operations.
-
-## 8. Segment Tree
-
-A segment tree implementation for efficient range query operations on an array.
+A graph representation with basic graph traversal algorithms (BFS, DFS).
