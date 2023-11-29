@@ -1,9 +1,7 @@
 # Data Structures in Java Script
-
 This folder contains a collection of commonly used data structures implemented in JavaScript. Each data structure is designed to provide efficient solutions for various algorithmic problems and can be used as building blocks for more complex applications.
 
 ## Table of Contents
-
 1. [Dynamic Array](#1-dynamic-array)
 2. [Linked List](#2-linked-list)
 3. [Circular Dequeue](#3-circular-dequeue)
