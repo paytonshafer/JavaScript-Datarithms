@@ -13,7 +13,7 @@ Popular Data Structures and Algorithms written in JavaScript to further my progr
 
 First, clone the repository with the below command and cd into the project directory.
 ```bash
-git clone https://github.com/paytonshafer/JavaScript-Datarithms.git
+git clone https://github.com/paytonshafer/JavaScript-Datarithms.git &&
 cd JavaScript-Datarithms
 ```
 Next, explore all the data structures and algorithms by going through the folders and looking at the various files.
